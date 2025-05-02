@@ -8,5 +8,6 @@ I have a degree in Computer Science and am passionate about programming, databas
 Technologies
 
 ![icono-visual-studio](https://github.com/user-attachments/assets/f25a6d90-83e0-458b-8c86-6880f20d0e26)  
-![icono-php](https://github.com/user-attachments/assets/7ee5822f-eaa3-48c1-9043-e65ec0da9fcf)
+
+![lenguaje-de-programacion-php](https://github.com/user-attachments/assets/3f3dab49-72af-456b-aa77-034dee81ee95)
 
