@@ -7,8 +7,10 @@ I have a degree in Computer Science and am passionate about programming, databas
 
 Technologies
 
-![icono-visual-studio](https://github.com/user-attachments/assets/f25a6d90-83e0-458b-8c86-6880f20d0e26)  
+![icono-visual-studio](https://github.com/user-attachments/assets/f25a6d90-83e0-458b-8c86-6880f20d0e26)
+
 ![icono-de-php-100x100](https://github.com/user-attachments/assets/ce9eb646-754b-49a1-b7a2-32054c79e270)
+
 ![logo-Jira-100x50](https://github.com/user-attachments/assets/9a9c3d48-d72e-4a27-9acc-1f49e5dd5cca)
 
 
