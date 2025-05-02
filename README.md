@@ -11,3 +11,4 @@ Technologies
 ![icono-de-php-100x100](https://github.com/user-attachments/assets/ce9eb646-754b-49a1-b7a2-32054c79e270)
 ![logo-Jira-100x50](https://github.com/user-attachments/assets/9a9c3d48-d72e-4a27-9acc-1f49e5dd5cca)
 
+
