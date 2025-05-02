@@ -7,7 +7,4 @@ I have a degree in Computer Science and am passionate about programming, databas
 
 Technologies
 
-
-
-![Image(5)](https://github.com/user-attachments/assets/22034055-b767-4624-9260-ee49eb78c2a5)
 ![icono-visual-studio](https://github.com/user-attachments/assets/f25a6d90-83e0-458b-8c86-6880f20d0e26)
