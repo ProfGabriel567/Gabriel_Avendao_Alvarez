@@ -9,5 +9,4 @@ Technologies
 
 ![icono-visual-studio](https://github.com/user-attachments/assets/f25a6d90-83e0-458b-8c86-6880f20d0e26)  
 
-![lenguaje-de-programacion-php](https://github.com/user-attachments/assets/3f3dab49-72af-456b-aa77-034dee81ee95)
-
+![b5vqrb8c](https://github.com/user-attachments/assets/4e991bb6-780c-4852-ae38-a76394326d0c)
