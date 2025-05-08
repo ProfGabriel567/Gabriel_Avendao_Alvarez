@@ -5,6 +5,10 @@
 ![icono-persona](https://github.com/user-attachments/assets/0e7fc533-f925-46d8-bd5d-5c81fa4fde0c)  About me:
 I have a degree in Computer Science and am passionate about programming, databases, and web development. I have been teaching students in the Computer Systems program for a decade. Recently, I completed a QA Engineer specialization at a TripleTen bootcamp where I completed nine projects ranging from test case design, mind map design, website testing, mobile app testing, API testing using Postman, test automation with Python and bug reporting with Jira. I also have experience developing programs with Visual C#.Net, Visual Basic.Net, PHP, SQL Server, and using tools such as Dreamweaver, Illustrator, and Animate. I am currently interested in joining a technology project where I can contribute and develop my knowledge and experience.
 
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 Technologies
 
 ![icono-visual-studio](https://github.com/user-attachments/assets/f25a6d90-83e0-458b-8c86-6880f20d0e26)
