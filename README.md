@@ -9,7 +9,12 @@ I have a degree in Computer Science and am passionate about programming, databas
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-Technologies
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,php,net,ai,ps,cs,github,postgres,mysql,windows,vscode,pycharm,selenium,postman,visualstudio,linux&perline=10"  />
+</p>
+<br />
 
 
 
