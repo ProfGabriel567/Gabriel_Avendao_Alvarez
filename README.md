@@ -1,5 +1,4 @@
-![Banner-github2](https://github.com/user-attachments/assets/9cffd49f-ad05-4668-b58a-a460ee6f5cda)
-
+![Banner-github2](https://github.com/user-attachments/assets/4159bb1d-a729-40a6-995b-29b1eddeb5cb)
 
 ![icono-persona](https://github.com/user-attachments/assets/0e7fc533-f925-46d8-bd5d-5c81fa4fde0c)  About me:
 <p align="justify">
