@@ -1,7 +1,4 @@
-
-![Banner-github](https://github.com/user-attachments/assets/b01b372f-77e0-4a6a-8d9e-73b3215e3af2)
-
-
+![Banner-github2](https://github.com/user-attachments/assets/9cffd49f-ad05-4668-b58a-a460ee6f5cda)
 
 
 ![icono-persona](https://github.com/user-attachments/assets/0e7fc533-f925-46d8-bd5d-5c81fa4fde0c)  About me:
