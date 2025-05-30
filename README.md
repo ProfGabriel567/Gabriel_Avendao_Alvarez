@@ -3,6 +3,8 @@
 ![Static Badge](https://img.shields.io/badge/QAEngineer-TripleTen-orange)
 ![Static Badge](https://img.shields.io/badge/Bachelor%20of%20Computer%20Science-Instituto%20Leonardo%20Bravo-red)
 ![Static Badge](https://img.shields.io/badge/Software%20Developer-DGTIC%20UNAM-navy)
+![Static Badge](https://img.shields.io/badge/Professor%20of%20Computer%20Systems-Universidad%20Mexicana-blue)
+
 
 
 
