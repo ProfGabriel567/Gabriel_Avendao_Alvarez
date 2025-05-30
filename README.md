@@ -1,4 +1,6 @@
 ![Banner-github2](https://github.com/user-attachments/assets/9b3663f2-d364-4137-afa0-51ec10e139a5)
+![Static Badge](https://img.shields.io/badge/Gabriel-LinkedIn-blue)
+
 
 ![icono-persona](https://github.com/user-attachments/assets/0e7fc533-f925-46d8-bd5d-5c81fa4fde0c)  About me:
 <p align="justify">
