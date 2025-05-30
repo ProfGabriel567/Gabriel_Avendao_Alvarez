@@ -1,5 +1,4 @@
 ![Banner-github2](https://github.com/user-attachments/assets/9b3663f2-d364-4137-afa0-51ec10e139a5)
-![Static Badge](https://img.shields.io/badge/Gabriel-LinkedIn-blue)
 ![Static Badge](https://img.shields.io/badge/QAEngineer-TripleTen-orange)
 ![Static Badge](https://img.shields.io/badge/Bachelor%20of%20Computer%20Science-Instituto%20Leonardo%20Bravo-red)
 ![Static Badge](https://img.shields.io/badge/Software%20Developer-DGTIC%20UNAM-navy)
