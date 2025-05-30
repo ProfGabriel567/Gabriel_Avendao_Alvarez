@@ -7,7 +7,6 @@
 
 
 
-
 ![icono-persona](https://github.com/user-attachments/assets/0e7fc533-f925-46d8-bd5d-5c81fa4fde0c)  About me:
 <p align="justify">
 I have a degree in Computer Science and am passionate about programming, databases, and web development. I have been teaching students in the Computer Systems program for a decade. I also have experience developing programs with Visual C#.Net, Visual Basic.Net, PHP, SQL Server, and using tools such as Dreamweaver, Illustrator, and Animate.
